@@ -1,5 +1,12 @@
 <p align="center">
   <img src="https://cdn.stuxiedev.net/media/2021/01/18155601/StuxieDev-Brand.png" width="200px">
+  <a href="http://stux.ie"><b>Hi, I'm Stuxie</b></a>
+  <b></> Dev & Lover ❤️ of all things tech 💻</b>
+  <br>
+  <b>A few of my projects & work</b>
+  ➜ https://gaymer.social 
+  ➜ https://blkd.in  ➜ https://robo.st
+  ➜ https://olly.bot ➜ https://sm.lol/s
 </p>
 
 <p align="center">
