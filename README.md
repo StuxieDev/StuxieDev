@@ -1,11 +1,16 @@
 <p align="center">
   <img src="https://cdn.stuxiedev.net/media/2021/01/18155601/StuxieDev-Brand.png" width="200px">
+  <br>
   <a href="http://stux.ie"><b>Hi, I'm Stuxie</b></a>
+  <br>
   <b></> Dev & Lover ❤️ of all things tech 💻</b>
   <br>
   <b>A few of my projects & work</b>
-  ➜ https://gaymer.social 
+  <br>
+  ➜ https://gaymer.social
+  <br>
   ➜ https://blkd.in  ➜ https://robo.st
+  <br>
   ➜ https://olly.bot ➜ https://sm.lol/s
 </p>
 
