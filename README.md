@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStuxieDev%2FStuxieDev">
+  <img src="https://img.shields.io/discord/697417763613966387?label=StuxieDev%27s%20Hideout&logo=discord&logoColor=%23ffffff&style=plastic">
   <br>
   <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
 </p>
