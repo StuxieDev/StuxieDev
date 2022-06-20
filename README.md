@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cdn.stuxiedev.net/media/2021/01/18155601/StuxieDev-Brand.png" width="200px">
   <br>
-  <a href="https://stux.ie"><b>Hi, I'm Stuxie</b></a>
+  <a href="https://stux.ie"><b>Hi, I'm Leo "StuxieDev" Ridgwell</b></a>
   <br>
   <b>⌨️ Dev & Lover ❤️ of all things tech 💻</b>
   <br>
@@ -24,4 +24,9 @@
   <img src="https://img.shields.io/discord/908757719194927144?label=BlockedIn%20Network&logo=discord&logoColor=%23ffffff">
   <br>
   <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+  <br>
+  <a href="https://leo.ridgwell.family"><b>Click here to contact me for serious business enquiries<b></a>
 </p>
