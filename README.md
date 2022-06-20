@@ -3,7 +3,7 @@
   <br>
   <a href="https://stux.ie"><b>Hi, I'm Stuxie</b></a>
   <br>
-  <b>`</>` Dev & Lover ❤️ of all things tech 💻</b>
+  <b>⌨️ Dev & Lover ❤️ of all things tech 💻</b>
   <br>
   <b>A few of my projects & work</b>
   <br>
