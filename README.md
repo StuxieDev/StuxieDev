@@ -3,15 +3,17 @@
   <br>
   <a href="https://stux.ie"><b>Hi, I'm Leo "StuxieDev" Ridgwell</b></a>
   <br>
-  <b>⌨️ Dev & Lover ❤️ of all things tech 💻</b>
+  <b>:shipit: Dev & Lover ❤️ of all things tech 💻</b>
   <br>
-  <b>A few of my projects & work</b>
+  Admin ● https://gaymer.social
   <br>
-  ➜ https://gaymer.social
+  Admin ● https://feet9.net
   <br>
-  ➜ https://blkd.in  ➜ https://robo.st
+  Dev ● https://robo.st
   <br>
-  ➜ https://feet9.net ➜ https://sm.lol/s
+  Owner ● https://blkd.in
+  <br>
+  Bio ● https://sm.lol/s
 </p>
 
 <p align="center">
