@@ -14,6 +14,8 @@
   Owner ● https://blkd.in
   <br>
   Bio ● https://sm.lol/s
+  <br>
+  <i>Computer Science University Student & <img src="https://cdn.discordapp.com/emojis/969166856546041876.webp?size=20&quality=lossless"></i>
 </p>
 
 <p align="center">
