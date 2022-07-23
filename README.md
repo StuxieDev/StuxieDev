@@ -11,7 +11,7 @@
   <br>
   ➜ https://blkd.in  ➜ https://robo.st
   <br>
-  ➜ https://olly.bot ➜ https://sm.lol/s
+  ➜ https://feet9.net ➜ https://sm.lol/s
 </p>
 
 <p align="center">
