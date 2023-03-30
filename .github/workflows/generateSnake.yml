@@ -31,7 +31,6 @@ jobs:
         id: snake-gif
         with:
           github_user_name: StuxieDev
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
@@ -40,8 +39,7 @@ jobs:
       - run: git status
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # the output branch we mentioned above
-          target_branch: output
+          target_branch: snake
           build_dir: dist
           commit_message: "build: update `snake`"
         env:

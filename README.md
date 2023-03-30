@@ -22,9 +22,9 @@
   </h3>
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/snake/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/snake/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/snake/snake.svg" />
 </picture>
 <h1>About Me</h1>
 <i>Always messing with tech ● Lives on Coffee and Code ● 1/3 of the Triforce of Chaos</i>
@@ -33,14 +33,14 @@
   <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://feet9.net">Feet9.Net</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
 </p>
 <a href="https://api.daily.dev/get?r=StuxieDev" target="_blank">
-    <img width="256" align="right" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/devcard.png">
+    <img width="256" align="right" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png">
 </a>
 <h2>My Stats</h2>
 &emsp;
 <div>
-  <img width="512" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/stats.svg">
+  <img width="512" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/stats.svg">
   <!--<img width-"512" src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">-->
-  <img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/achievements.svg">
+  <img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/achievements.svg">
 </div>
 <h2>My Socials</h2>
 <p>

@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: output
+          committer_branch: metrics
           committer_message: "build: update `stats`"
 
           # Options
@@ -53,7 +53,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: output
+          committer_branch: metrics
           committer_message: "build: update `notable`"
 
           # Options
@@ -83,7 +83,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: output
+          committer_branch: metrics
           committer_message: "build: update `notable2`"
 
           # Options
@@ -116,7 +116,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: output
+          committer_branch: metrics
           committer_message: "build: update `achievements`"
 
           # Options
