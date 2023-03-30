@@ -1,0 +1,30 @@
+# GitHub Action for generating a devcard
+name: Generate Devcard
+
+# Controls when the action will run. This action runs every 6 hours.
+on:
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+  # Push to main branch
+  push:
+    branches:
+      - main
+  # Run every day
+  schedule:
+    - cron: "0 0 * * *"
+
+# The sequence of runs in this workflow:
+jobs:
+  # This workflow contains a single job called "devcard"
+  devcard:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Generates the devcard
+      - uses: dailydotdev/action-devcard@2.2.0
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_branch: output
+          commit_filename: devcard.png
+          commit_message: "chore: update ${filename}"
