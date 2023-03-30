@@ -29,7 +29,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: output
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update `stats`"
 
           # Options
           user: StuxieDev
@@ -54,7 +54,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: output
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update `notable`"
 
           # Options
           user: StuxieDev
@@ -84,7 +84,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: output
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update `notable2`"
 
           # Options
           user: StuxieDev
@@ -117,7 +117,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: output
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update `achievements`"
 
           # Options
           user: StuxieDev
