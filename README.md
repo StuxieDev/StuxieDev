@@ -30,7 +30,7 @@
 <i>1/3 of the Triforce of Chaos</i>
 <h2>My Projects</h2>
 <p>
-  <a href="https://sm.lol/s">Bio</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://feet9.net">Feet9.Net</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
+  <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://feet9.net">Feet9.Net</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
 </p>
 <h2>My Stats</h2>
  <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
