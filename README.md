@@ -26,6 +26,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake.svg" />
 </picture>
+<a href="https://api.daily.dev/get?r=StuxieDev" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/devcard.png"
+    />
+  </a>
 <h1>About Me</h1>
 <i>1/3 of the Triforce of Chaos</i>
 <h2>My Projects</h2>
@@ -33,7 +40,10 @@
   <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://feet9.net">Feet9.Net</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
 </p>
 <h2>My Stats</h2>
- <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
+  <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
+  <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
+  <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
+  <img src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">
 <h2>My Socials</h2>
 <p>
   <b>Find me on Discord</b>
