@@ -30,4 +30,4 @@ jobs:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: output
           commit_filename: devcard.png
-          commit_message: "build: update ${filename}"
+          commit_message: "build: update `${filename}`"

@@ -42,6 +42,6 @@ jobs:
           # the output branch we mentioned above
           target_branch: output
           build_dir: dist
-          commit_message: "build: update ${filename}"
+          commit_message: "build: update `${filename}`"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
