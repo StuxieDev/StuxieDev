@@ -21,6 +21,11 @@
     A <img src="https://cdn.discordapp.com/emojis/969166856546041876.webp?size=20&quality=lossless"> Who is Always Developing
   </h3>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/output/snake.svg" />
+</picture>
 <h1>About Me</h1>
 <i>1/3 of the Triforce of Chaos</i>
 <h2>My Projects</h2>
