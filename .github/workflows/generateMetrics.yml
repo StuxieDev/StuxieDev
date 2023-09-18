@@ -22,7 +22,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: lowlighter/metrics@v3.33
+      - uses: lowlighter/metrics@v3.34
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -47,7 +47,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: lowlighter/metrics@v3.33
+      - uses: lowlighter/metrics@v3.34
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -77,7 +77,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: lowlighter/metrics@v3.33
+      - uses: lowlighter/metrics@v3.34
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -110,7 +110,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: lowlighter/metrics@v3.33
+      - uses: lowlighter/metrics@v3.34
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
