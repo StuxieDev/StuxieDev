@@ -43,7 +43,7 @@
 <div>
   <img width="512" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/stats.svg">
   <!--<img width-"512" src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">-->
-  <!--<img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/achievements.svg">-->
+  <img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/achievements.svg">
 </div>
 <h2>My Socials</h2>
 <p>
