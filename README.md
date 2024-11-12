@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.stuxie.dev/global/logo.png" width="200px">
   <br>
-  <a href="https://july.lgbt/discord">
-    <!--<img src="https://img.shields.io/discord/800779360134627348?color=5865F2&label=LGBTQTS&logo=discord&logoColor=white&style=for-the-badge">-->
+  <a href="https://stux.ie/discord">
+    <!--<img src="https://img.shields.io/discord/697417763613966387?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge">-->
     <img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
   <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStuxieDev%2FStuxieDev&count_bg=%23269E50&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>-->
@@ -30,10 +30,10 @@
   </picture>
 </div>
 <h1>About Me</h1>
-<i>Always messing with tech ● Lives on Coffee and Code ● 1/3 of the Triforce of Chaos</i>
+<i>Always Messing with Tech ● Lives on Coffee and Code ● Always Developing</i>
 <h2>My Projects</h2>
 <p>
-  <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://feet9.net">Feet9.Net</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
+  <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
 </p>
 <a href="https://api.daily.dev/get?r=StuxieDev" target="_blank">
     <img width="256" align="right" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png">
