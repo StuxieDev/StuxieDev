@@ -35,7 +35,7 @@
 <p>
   <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
 </p>
-<a href="https://api.daily.dev/get?r=StuxieDev" target="_blank">
+<a href="https://daily.dev/StuxieDev" target="_blank">
     <img width="256" align="right" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png">
 </a>
 <h2>My Stats</h2>
