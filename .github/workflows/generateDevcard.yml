@@ -27,7 +27,7 @@ jobs:
       # Generates the devcard
       - uses: dailydotdev/action-devcard@3.2.0
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.USER_ID }}
           commit_branch: devcard
           commit_filename: devcard.png
           commit_message: "build: update `devcard`"
