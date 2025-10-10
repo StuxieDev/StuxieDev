@@ -40,8 +40,8 @@ jobs:
           config_padding: 0, 30
           filename: stats.svg
 
-  # This workflow contains a job called "notable"  
-  notable:
+  # This workflow contains a job called "notable_simple"  
+  notable_simple:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -54,7 +54,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update `notable`"
+          committer_message: "build: update `notable_simple`"
 
           # Options
           user: StuxieDev
@@ -64,14 +64,14 @@ jobs:
           config_timezone: Europe/London
           config_output: svg
           config_padding: 0, 30
-          filename: notable.svg
+          filename: notable_simple.svg
 
           # Notable contributions
           plugin_notable: yes
           plugin_notable_filter: stars:>25
 
-  # This workflow contains a job called "notable2"          
-  notable2:
+  # This workflow contains a job called "notable_indepth"          
+  notable_indepth:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -84,7 +84,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update `notable2`"
+          committer_message: "build: update `notable_indepth`"
 
           # Options
           user: StuxieDev
@@ -94,7 +94,7 @@ jobs:
           config_timezone: Europe/London
           config_output: svg
           config_padding: 0, 30
-          filename: notable2.svg
+          filename: notable_indepth.svg
 
           # Notable contributions
           plugin_notable: yes
