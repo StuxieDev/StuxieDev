@@ -1,5 +1,5 @@
 # GitHub Action for generating a devcard
-name: Generate Devcard
+name: Generate Devcards
 
 # Controls when the action will run. This action runs every 6 hours.
 on:
@@ -15,7 +15,7 @@ on:
 
 # The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "devcard"
+  # This workflow contains a job called "devcard"
   devcard:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -31,3 +31,19 @@ jobs:
           commit_branch: devcard
           commit_filename: devcard.png
           commit_message: "build: update `devcard`"
+  # This workflow contains a job called "devcard-dark"
+  devcard-dark:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Give permission to write
+    permissions:
+      contents: write
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Generates the devcard
+      - uses: dailydotdev/action-devcard@3.2.0
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          commit_branch: devcard
+          commit_filename: devcard-dark.png
+          commit_message: "build: update `devcard-dark`"
