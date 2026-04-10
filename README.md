@@ -35,11 +35,14 @@
 <p>
   <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
 </p>
-<a href="https://daily.dev/StuxieDev" target="_blank">
-    <img width="256" align="right" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png">
-</a>
 <h2>My Stats</h2>
-&emsp;
+<a href="https://daily.dev/StuxieDev" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard-dark.png" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
+        <img width="200" align="right" alt="devcard" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
+    </picture>
+</a>
 <div>
   <img width="512" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/stats.svg">
   <!--<img width-"512" src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">-->
