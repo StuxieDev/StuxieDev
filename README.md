@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/StuxieDev.png" width="100px">
+  <img src="https://github.com/StuxieDev.png" width="100px" style="border-radius:50%">
   <br>
   <a href="https://stux.ie/discord">
     <!--<img src="https://img.shields.io/discord/697417763613966387?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge">-->
