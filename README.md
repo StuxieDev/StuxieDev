@@ -33,7 +33,7 @@
 <i>Always Messing with Tech ● Lives on Coffee and Code ● Always Developing</i>
 <h2>My Projects</h2>
 <p>
-  <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
+  <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://stuxedo.net">Stuxedo</a> ● <a href="https://stux.cloud">Stux.Cloud</a> ● <a href="https://stuxapis.net">StuxAPIs</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a> ● <a href="https://stuxie.dev/#portfolio-section"><b>More...</b></a>
 </p>
 <h2>My Organisations</h2>
 <table width="100%">
