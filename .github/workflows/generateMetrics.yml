@@ -55,7 +55,7 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Europe/London
           config_output: svg
-          config_padding: 6%, 30
+          config_padding: 15%, 30
           filename: stats.svg
 
   # This workflow contains a job called "notable_simple"
