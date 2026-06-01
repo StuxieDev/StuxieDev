@@ -1,7 +1,7 @@
 # GitHub Action for generating a metrics
 name: Generate Metrics
 
-# Controls when the action will run. This action runs every 6 hours.
+# Controls when the action will run. This action runs every 24 hours at midnight.
 on:
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -38,7 +38,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: stalomeow/metrics@projects-v2
+      - uses: gh-metrics/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -64,7 +64,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: stalomeow/metrics@projects-v2
+      - uses: gh-metrics/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -95,7 +95,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: stalomeow/metrics@projects-v2
+      - uses: gh-metrics/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -129,7 +129,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: stalomeow/metrics@projects-v2
+      - uses: gh-metrics/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}

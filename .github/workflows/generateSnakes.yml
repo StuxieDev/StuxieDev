@@ -1,7 +1,7 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snakes
 
-# Controls when the action will run. This action runs every 6 hours.
+# Controls when the action will run. This action runs every 24 hours at midnight.
 on:
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:

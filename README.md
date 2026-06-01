@@ -36,7 +36,7 @@
   <a href="https://sm.lol/s">Sm.lol</a> ● <a href="https://www.stux.group">Stux.Group</a> ● <a href="https://gaymer.social">Gaymer.Social</a> ● <a href="https://robo.st">RoboStux</a>
 </p>
 <h2>My Organisations</h2>
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/StuxGroup">
