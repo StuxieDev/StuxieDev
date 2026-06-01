@@ -44,12 +44,6 @@
         <b>Stux.Group</b>
       </a><br>
       <sub>Innovating Today, Building Tomorrow</sub><br><br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxGroup/.github/snake/snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxGroup/.github/snake/snake.svg" />
-        <img width="300" alt="StuxGroup contribution snake" src="https://raw.githubusercontent.com/StuxGroup/.github/snake/snake.svg" />
-      </picture>
-      <br>
       <img width="400" src="https://raw.githubusercontent.com/StuxGroup/.github/metrics/stats.svg">
     </td>
     <td align="center" width="50%">
@@ -58,12 +52,6 @@
         <b>Stuxedo</b>
       </a><br>
       <sub>The Smarter, Greener Option</sub><br><br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stuxedo/.github/snake/snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stuxedo/.github/snake/snake.svg" />
-        <img width="300" alt="Stuxedo contribution snake" src="https://raw.githubusercontent.com/Stuxedo/.github/snake/snake.svg" />
-      </picture>
-      <br>
       <img width="400" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
     </td>
   </tr>
@@ -74,12 +62,6 @@
         <b>Stux.Cloud</b>
       </a><br>
       <sub>Powered by Stuxedo</sub><br><br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxCloud/.github/snake/snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxCloud/.github/snake/snake.svg" />
-        <img width="300" alt="StuxCloud contribution snake" src="https://raw.githubusercontent.com/StuxCloud/.github/snake/snake.svg" />
-      </picture>
-      <br>
       <img width="400" src="https://raw.githubusercontent.com/StuxCloud/.github/metrics/stats.svg">
     </td>
     <td align="center">
@@ -88,12 +70,6 @@
         <b>StuxAPIs</b>
       </a><br>
       <sub>Powering the Stux.Group Ecosystem</sub><br><br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxAPIs/.github/snake/snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxAPIs/.github/snake/snake.svg" />
-        <img width="300" alt="StuxAPIs contribution snake" src="https://raw.githubusercontent.com/StuxAPIs/.github/snake/snake.svg" />
-      </picture>
-      <br>
       <img width="400" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
     </td>
   </tr>
