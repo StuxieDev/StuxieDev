@@ -38,7 +38,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -64,7 +64,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -95,7 +95,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -129,7 +129,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
