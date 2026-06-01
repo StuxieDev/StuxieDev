@@ -75,18 +75,23 @@
   </tr>
 </table>
 <h2>My Stats</h2>
-<a href="https://daily.dev/StuxieDev" target="_blank">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard-dark.png" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
-        <img width="200" align="right" alt="devcard" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
-    </picture>
-</a>
-<div>
-  <img width="512" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/stats.svg">
-  <!--<img width-"512" src="https://github.stats.stuxapis.net/api?username=StuxieDev&show_icons=true&theme=radical">-->
-  <img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/achievements.svg">
-</div>
+<table width="100%">
+  <tr>
+    <td width="67%" valign="top">
+      <img width="100%" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/stats.svg">
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://daily.dev/StuxieDev" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard-dark.png" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
+          <img width="100%" alt="devcard" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+<img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/achievements.svg">
 <h2>My Socials</h2>
 <p>
   <a href="https://bsky.app/profile/stuxie.dev">
