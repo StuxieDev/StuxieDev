@@ -76,12 +76,12 @@
 </table>
 <h2>My Stats</h2>
 <table width="100%">
-  <tr height="500">
+  <tr>
     <td width="67%" valign="top">
       <img width="100%" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/stats.svg">
     </td>
     <td width="33%" align="center" valign="top">
-      <br><br><br><br><br>
+      <br><br><br><br>
       <a href="https://daily.dev/StuxieDev" target="_blank">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard-dark.png" />
