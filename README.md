@@ -89,7 +89,7 @@
           <img width="100%" alt="devcard" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
         </picture>
       </a>
-      <br><br>
+      <br><br><br>
     </td>
   </tr>
 </table>
