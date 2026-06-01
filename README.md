@@ -47,16 +47,6 @@
       <img width="400" src="https://raw.githubusercontent.com/StuxGroup/.github/metrics/stats.svg">
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Stuxedo">
-        <img src="https://github.com/Stuxedo.png" width="80"><br>
-        <b>Stuxedo</b>
-      </a><br>
-      <sub>The Smarter, Greener Option</sub><br><br>
-      <img width="400" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/StuxCloud">
         <img src="https://github.com/StuxCloud.png" width="80"><br>
         <b>Stux.Cloud</b>
@@ -64,6 +54,8 @@
       <sub>Powered by Stuxedo</sub><br><br>
       <img width="400" src="https://raw.githubusercontent.com/StuxCloud/.github/metrics/stats.svg">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/StuxAPIs">
         <img src="https://github.com/StuxAPIs.png" width="80"><br>
@@ -72,15 +64,24 @@
       <sub>Powering the Stux.Group Ecosystem</sub><br><br>
       <img width="400" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
     </td>
+    <td align="center">
+      <a href="https://github.com/Stuxedo">
+        <img src="https://github.com/Stuxedo.png" width="80"><br>
+        <b>Stuxedo</b>
+      </a><br>
+      <sub>The Smarter, Greener Option</sub><br><br>
+      <img width="400" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
+    </td>
   </tr>
 </table>
 <h2>My Stats</h2>
 <table width="100%">
-  <tr>
+  <tr height="500">
     <td width="67%" valign="top">
       <img width="100%" src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/stats.svg">
     </td>
     <td width="33%" align="center" valign="top">
+      <br><br><br><br><br>
       <a href="https://daily.dev/StuxieDev" target="_blank">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard-dark.png" />
@@ -91,7 +92,7 @@
     </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/achievements.svg">
+<!--<img src="https://raw.githubusercontent.com/StuxieDev/StuxieDev/metrics/achievements.svg">-->
 <h2>My Socials</h2>
 <p>
   <a href="https://bsky.app/profile/stuxie.dev">
