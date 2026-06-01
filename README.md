@@ -111,6 +111,18 @@
   <br>
   <img src="https://discord.c99.nl/widget/theme-2/454714967954817024.png">
 </p>
+<h2>Business</h2>
+<p>
+  <a href="https://linkedin.com/in/leoridgwell">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://leo.ridgwell.family">
+    <img src="https://img.shields.io/badge/leo.ridgwell.family-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OTYgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMzM2LjUgMTYwQzMyMiA3MC43IDI4Ny44IDggMjQ4IDhzLTc0IDYyLjctODguNSAxNTJoMTc3ek0xNTIgMjU2YzAgMjIuMiAxLjIgNDMuNSAzLjMgNjRoMTg1LjNjMi4xLTIwLjUgMy4zLTQxLjggMy4zLTY0cy0xLjItNDMuNS0zLjMtNjRIMTU1LjNjLTIuMSAyMC41LTMuMyA0MS44LTMuMyA2NHptMzI0LjctOTZjLTI4LjYtNjcuOS04Ni41LTEyMC40LTE1OC0xNDEuNiAyNC40IDMzLjggNDEuMiA4NC43IDUwIDE0MS42aDEwOHpNMTc3LjIgMTguNEMxMDUuOCAzOS42IDQ3LjggOTIuMSAxOS4zIDE2MGgxMDhjOC43LTU2LjkgMjUuNS0xMDcuOCA0OS45LTE0MS42ek00ODcuNCAxOTJIMzcyLjdjMi4xIDIxIDMuMyA0Mi41IDMuMyA2NHMtMS4yIDQzLTMuMyA2NGgxMTQuNmM1LjUtMjAuNSA4LjYtNDEuOCA4LjYtNjRzLTMuMS00My41LTguNS02NHpNMTIwIDI1NmMwLTIxLjUgMS4yLTQzIDMuMy02NEg4LjZDMy4yIDIxMi41IDAgMjMzLjggMCAyNTZzMy4yIDQzLjUgOC42IDY0aDExNC42Yy0yLTIxLTMuMi00Mi41LTMuMi02NHptMzkuNSA5NmMxNC41IDg5LjMgNDguNyAxNTIgODguNSAxNTJzNzQtNjIuNyA4OC41LTE1MmgtMTc3em0xNTkuMyAxNDEuNmM3MS40LTIxLjIgMTI5LjQtNzMuNyAxNTgtMTQxLjZoLTEwOGMtOC44IDU2LjktMjUuNiAxMDcuOC01MCAxNDEuNnpNMTkuMyAzNTJjMjguNiA2Ny45IDg2LjUgMTIwLjQgMTU4IDE0MS42LTI0LjQtMzMuOC00MS4yLTg0LjctNTAtMTQxLjZoLTEwOHoiLz48L3N2Zz4=&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:work.leo@ridgwell.family">
+    <img src="https://img.shields.io/badge/email-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+</p>
 <p>
   <a href="https://leo.ridgwell.family"><b>Click here to contact me for serious business enquiries</b></a>
 </p>
