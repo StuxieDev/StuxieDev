@@ -35,6 +35,8 @@ jobs:
     needs: setup
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
@@ -50,7 +52,7 @@ jobs:
           # Options
           user: StuxieDev
           template: classic
-          base: header, activity, community
+          base: header, activity, community, repositories
           config_timezone: Europe/London
           config_output: svg
           config_padding: 0, 30
@@ -61,6 +63,8 @@ jobs:
     needs: setup
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
@@ -92,6 +96,8 @@ jobs:
     needs: setup
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
@@ -126,6 +132,8 @@ jobs:
     needs: setup
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Generates the metrics
