@@ -4,7 +4,7 @@
     Hi, I'm Leo (<a href="https://stux.ie">StuxieDev</a>) Ridgwell
   </h1>
   <h3>
-    <i>A <img src="https://cdn.discordapp.com/emojis/969166856546041876.webp?size=20&quality=lossless"> Who is Always Developing</i>
+    <i>A <img src="https://media.stuxie.dev/github/bicat-github.webp"> Who is Always Developing</i>
   </h3>
   <p>
     <a href="https://stux.ie">
