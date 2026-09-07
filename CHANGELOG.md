@@ -4,6 +4,11 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.2
+
+### Fixed
+- Org stats SVGs in "My Organisations" render via `<foreignObject>` with no `viewBox`, so forcing `width="400"` on the `<img>` (their native size is 480px) made Chromium-based renderers clip the card content instead of scaling it, leaving it looking left-shoved rather than centered — set to their native `width="480"` instead
+
 ## v1.1.1
 
 ### Fixed

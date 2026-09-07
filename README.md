@@ -71,7 +71,7 @@
           <b>Stux.Group</b>
         </a><br>
         <sub>Innovating Today, Building Tomorrow</sub><br><br>
-        <img width="400" src="https://raw.githubusercontent.com/StuxGroup/.github/metrics/stats.svg">
+        <img width="480" src="https://raw.githubusercontent.com/StuxGroup/.github/metrics/stats.svg">
       </div>
     </td>
     <td align="center" width="50%">
@@ -81,7 +81,7 @@
           <b>Stuxedo</b>
         </a><br>
         <sub>The Smarter, Greener Option</sub><br><br>
-        <img width="400" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
+        <img width="480" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
       </div>
     </td>
   </tr>
@@ -93,7 +93,7 @@
           <b>StuxAPIs</b>
         </a><br>
         <sub>Powering the Stux.Group Ecosystem</sub><br><br>
-        <img width="400" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
+        <img width="480" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
       </div>
     </td>
     <td align="center">
@@ -103,7 +103,7 @@
           <b>Ream.st</b>
         </a><br>
         <sub>Multi Stream Viewer Provider. All Channels._ One Screen.</sub><br><br>
-        <img width="400" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
+        <img width="480" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
       </div>
     </td>
   </tr>
