@@ -4,6 +4,11 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.1
+
+### Fixed
+- Org stats images in "My Organisations" weren't actually centered — `<td align="center">` isn't reliably honored by GitHub's renderer; each cell's content is now wrapped in `<div align="center">` (the pattern already proven to work elsewhere in this README) instead
+
 ## v1.1.0
 
 ### Added

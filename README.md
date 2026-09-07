@@ -65,38 +65,46 @@
 <table width="100%" style="width:100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/StuxGroup">
-        <img src="https://github.com/StuxGroup.png" width="80"><br>
-        <b>Stux.Group</b>
-      </a><br>
-      <sub>Innovating Today, Building Tomorrow</sub><br><br>
-      <img width="400" src="https://raw.githubusercontent.com/StuxGroup/.github/metrics/stats.svg">
+      <div align="center">
+        <a href="https://github.com/StuxGroup">
+          <img src="https://github.com/StuxGroup.png" width="80"><br>
+          <b>Stux.Group</b>
+        </a><br>
+        <sub>Innovating Today, Building Tomorrow</sub><br><br>
+        <img width="400" src="https://raw.githubusercontent.com/StuxGroup/.github/metrics/stats.svg">
+      </div>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Stuxedo">
-        <img src="https://github.com/Stuxedo.png" width="80"><br>
-        <b>Stuxedo</b>
-      </a><br>
-      <sub>The Smarter, Greener Option</sub><br><br>
-      <img width="400" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
+      <div align="center">
+        <a href="https://github.com/Stuxedo">
+          <img src="https://github.com/Stuxedo.png" width="80"><br>
+          <b>Stuxedo</b>
+        </a><br>
+        <sub>The Smarter, Greener Option</sub><br><br>
+        <img width="400" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/StuxAPIs">
-        <img src="https://github.com/StuxAPIs.png" width="80"><br>
-        <b>StuxAPIs</b>
-      </a><br>
-      <sub>Powering the Stux.Group Ecosystem</sub><br><br>
-      <img width="400" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
+      <div align="center">
+        <a href="https://github.com/StuxAPIs">
+          <img src="https://github.com/StuxAPIs.png" width="80"><br>
+          <b>StuxAPIs</b>
+        </a><br>
+        <sub>Powering the Stux.Group Ecosystem</sub><br><br>
+        <img width="400" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
+      </div>
     </td>
     <td align="center">
-      <a href="https://github.com/Ream-st">
-        <img src="https://github.com/Ream-st.png" width="80"><br>
-        <b>Ream.st</b>
-      </a><br>
-      <sub>Multi Stream Viewer Provider. All Channels._ One Screen.</sub><br><br>
-      <img width="400" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
+      <div align="center">
+        <a href="https://github.com/Ream-st">
+          <img src="https://github.com/Ream-st.png" width="80"><br>
+          <b>Ream.st</b>
+        </a><br>
+        <sub>Multi Stream Viewer Provider. All Channels._ One Screen.</sub><br><br>
+        <img width="400" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
+      </div>
     </td>
   </tr>
 </table>
