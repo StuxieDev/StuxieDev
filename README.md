@@ -31,7 +31,7 @@
   </picture>
 </div>
 <h1>About Me</h1>
-<i>Always Messing with Tech ● Lives on Coffee and Code ● Always Developing</i>
+<i>Always Messing with Tech ● Lives on Coffee and Code ● Always Developing ● Creativity and Possibilities with Technology</i>
 <h2>My Projects</h2>
 <p>
   <a href="https://sm.lol/s">Sm.lol</a> ●
