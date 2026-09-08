@@ -150,3 +150,7 @@
 <p>
   <a href="https://leo.ridgwell.family"><b>Click here to contact me for serious business enquiries</b></a>
 </p>
+
+---
+
+*Built & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://github.com/StuxieDev).*

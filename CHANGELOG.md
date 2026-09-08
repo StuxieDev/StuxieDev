@@ -4,6 +4,11 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.4
+
+### Changed
+- Footer's attribution line reformatted to match Automater's standard StuxieDev footer (icon + link) - no footer existed here before
+
 ## v1.1.3
 
 ### Changed
