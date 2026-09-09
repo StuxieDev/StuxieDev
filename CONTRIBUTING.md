@@ -46,7 +46,7 @@ By participating in any of my projects, you agree to uphold a respectful and con
 
 ## Questions
 
-If you have any questions, feel free to reach out at [contact@stuxie.dev](mailto:contact@stuxie.dev) or open a discussion in the relevant repository.
+If you have any questions, feel free to reach out at [hello@stuxie.dev](mailto:hello@stuxie.dev) or open a discussion in the relevant repository.
 
 ---
 
