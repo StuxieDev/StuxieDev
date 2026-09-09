@@ -49,7 +49,11 @@ jobs:
           commit_message: "build: update `devcard`"
   # This workflow contains a job called "devcard-dark"
   devcard-dark:
-    needs: setup
+    # Runs after "devcard", not in parallel with it - both jobs commit to the
+    # same "devcard" branch, and running them concurrently races on that
+    # branch's HEAD sha, causing a 409 (stale sha) from the GitHub Contents
+    # API on whichever job commits second.
+    needs: [setup, devcard]
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # Give permission to write
