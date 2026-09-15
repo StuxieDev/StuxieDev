@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.stuxie.dev/global/logo.png" height="100" alt="StuxieDev Logo">
+  <img src="https://global.media.stuxie.dev/logo.png" height="100" alt="StuxieDev Logo">
 </p>
 
 # Contributing to StuxieDev

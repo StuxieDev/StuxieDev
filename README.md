@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wsrv.nl/?url=github.com/StuxieDev.png&w=100&h=100&mask=circle&maxage=7d" width="100">
+  <img src="https://wsrv.nl/?url=global.media.stuxie.dev/icon.png&w=100&h=100&mask=circle&maxage=7d" width="100">
   <h1>
     Hi, I'm Leo (<a href="https://stux.ie">StuxieDev</a>) Ridgwell
   </h1>
@@ -56,7 +56,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxGroup">
-          <img src="https://github.com/StuxGroup.png" width="80"><br>
+          <img src="https://global.media.stux.group/icon.png" width="80"><br>
           <b>Stux.Group</b>
         </a><br>
         <sub>Innovating Today, Building Tomorrow</sub><br><br>
@@ -66,7 +66,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/Stuxedo">
-          <img src="https://github.com/Stuxedo.png" width="80"><br>
+          <img src="https://global.media.stuxedo.com/icon.png" width="80"><br>
           <b>Stuxedo</b>
         </a><br>
         <sub>The Smarter, Greener Option</sub><br><br>
@@ -78,7 +78,7 @@
     <td align="center">
       <div align="center">
         <a href="https://github.com/StuxAPIs">
-          <img src="https://github.com/StuxAPIs.png" width="80"><br>
+          <img src="https://global.media.stuxapis.net/icon.png" width="80"><br>
           <b>StuxAPIs</b>
         </a><br>
         <sub>Powering the Stux.Group Ecosystem</sub><br><br>
@@ -88,7 +88,7 @@
     <td align="center">
       <div align="center">
         <a href="https://github.com/Ream-st">
-          <img src="https://github.com/Ream-st.png" width="80"><br>
+          <img src="https://global.media.ream.st/icon.png" width="80"><br>
           <b>Ream.st</b>
         </a><br>
         <sub>Multi Stream Viewer Provider. All Channels._ One Screen.</sub><br><br>
@@ -153,4 +153,4 @@
 
 ---
 
-*Built & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://github.com/StuxieDev).*
+*Built & Maintained by <img src="https://global.media.stuxie.dev/icon.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://github.com/StuxieDev).*

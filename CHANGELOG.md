@@ -4,6 +4,13 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.7
+
+### Fixed
+- `CONTRIBUTING.md`'s StuxieDev logo URL still pointed at the old `media.stuxie.dev/global/logo.png` host — corrected to `https://global.media.stuxie.dev/logo.png`
+- `README.md`'s own avatar and "Built & Maintained by StuxieDev" footer credit now use the hosted `https://global.media.stuxie.dev/icon.png` icon instead of the live GitHub avatar shorthand (`github.com/StuxieDev.png`), including inside the `wsrv.nl` resize-proxy URL
+- `README.md`'s "My Organisations" grid avatars swapped from live GitHub org avatars to each org's own hosted icon: Stux.Group → `https://global.media.stux.group/icon.png`, Stuxedo → `https://global.media.stuxedo.com/icon.png`, StuxAPIs → `https://global.media.stuxapis.net/icon.png`, Ream.st → `https://global.media.ream.st/icon.png`
+
 ## v1.1.6
 
 ### Fixed
