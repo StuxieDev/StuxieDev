@@ -91,7 +91,7 @@
           <img src="https://global.media.ream.st/icon.png" width="80"><br>
           <b>Ream.st</b>
         </a><br>
-        <sub>Multi Stream Viewer Provider. All Channels._ One Screen.</sub><br><br>
+        <sub>One Viewer, One Provider, Multiple Streams!</sub><br><br>
         <img width="480" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
       </div>
     </td>
