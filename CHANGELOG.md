@@ -4,6 +4,11 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.8
+
+### Added
+- `README.md`'s "My Organisations" grid gained three rows for the orgs built out this session: Stux.Cloud, Stux.Music, and Stux.Dev, each with its icon, slogan, and activity metrics widget, matching the existing Stux.Group/Stuxedo/StuxAPIs/Ream.st rows.
+
 ## v1.1.7
 
 ### Fixed

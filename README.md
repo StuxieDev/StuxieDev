@@ -96,6 +96,40 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/StuxCloud">
+          <img src="https://global.media.stux.cloud/icon.png" width="80"><br>
+          <b>Stux.Cloud</b>
+        </a><br>
+        <sub>Powering everything, quietly &amp; securely!</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxCloud/.github/metrics/stats.svg">
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/StuxMusic">
+          <img src="https://global.media.stux.music/icon.png" width="80"><br>
+          <b>Stux.Music</b>
+        </a><br>
+        <sub>Independent Music, Done Right!</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxMusic/.github/metrics/stats.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <div align="center">
+        <a href="https://github.com/StuxDev">
+          <img src="https://global.media.stux.dev/icon.png" width="80"><br>
+          <b>Stux.Dev</b>
+        </a><br>
+        <sub>We build the tools we wished existed.</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxDev/.github/metrics/stats.svg">
+      </div>
+    </td>
+  </tr>
 </table>
 </div>
 <h2>My Stats</h2>
