@@ -119,7 +119,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxDev">
           <img src="https://global.media.stux.dev/icon.png" width="80"><br>
@@ -127,6 +127,38 @@
         </a><br>
         <sub>We build the tools we wished existed.</sub><br><br>
         <img width="480" src="https://raw.githubusercontent.com/StuxDev/.github/metrics/stats.svg">
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/TWRAR">
+          <img src="https://raw.githubusercontent.com/TWRAR/Engine/main/assets/icon.png" width="80"><br>
+          <b>TWRAR</b>
+        </a><br>
+        <sub>The Website Recorder And Replayer</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/TWRAR/.github/metrics/stats.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/TS4RLS">
+          <img src="https://raw.githubusercontent.com/TS4RLS/Engine/main/assets/icon.png" width="80"><br>
+          <b>TS4RLS</b>
+        </a><br>
+        <sub>The Sims 4 Random Loading Screen</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/TS4RLS/.github/metrics/stats.svg">
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/TIGHC">
+          <img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/icon.png" width="80"><br>
+          <b>TIGHC</b>
+        </a><br>
+        <sub>The Intiface Game Haptics Controller</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/TIGHC/.github/metrics/stats.svg">
       </div>
     </td>
   </tr>
