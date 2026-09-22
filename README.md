@@ -4,7 +4,7 @@
     Hi, I'm Leo (<a href="https://stux.ie">StuxieDev</a>) Ridgwell
   </h1>
   <h3>
-    <i>A <img src="https://global.media.stuxie.dev/github/bicat-github.webp"> Who is Always Developing</i>
+    <i>A <img src="https://global.media.stuxie.dev/github/bicat-github.png"> Who is Always Developing</i>
   </h3>
   <p>
     <a href="https://stuxie.dev">
