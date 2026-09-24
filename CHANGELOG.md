@@ -4,6 +4,15 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.4.0
+
+### Added
+- "Featured Projects" section above "My Projects": the StuxieDev Website (stuxie.dev), RoboStux, and Sm.lol, each with its icon and tagline, laid out like the "My Organisations" grid.
+
+### Removed
+- Sm.lol and RoboStux removed from the "My Projects" list, now that they're featured.
+- Stux.Group, Stuxedo, StuxAPIs, and Ream.st removed from "My Projects", since they're already listed under "My Organisations". Gaymer.Social / Gaymer.Coffee removed as well.
+
 ## v1.3.0
 
 ### Added

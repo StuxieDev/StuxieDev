@@ -38,15 +38,42 @@
     <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,cs,cpp,java,vue,html,bash,powershell,git,discord">
   </a>
 </p>
+<h2>Featured Projects</h2>
+<div align="center">
+<table width="100%" style="width:100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <div align="center">
+        <a href="https://stuxie.dev">
+          <img src="https://global.media.stuxie.dev/icon.png" width="80"><br>
+          <b>StuxieDev Website</b>
+        </a><br>
+        <sub>Always Developing!</sub>
+      </div>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <div align="center">
+        <a href="https://robo.st">
+          <img src="https://global.media.robo.st/icon.png" width="80"><br>
+          <b>RoboStux</b>
+        </a><br>
+        <sub>One Bot, Multiple Features, Every Server!</sub>
+      </div>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <div align="center">
+        <a href="https://sm.lol">
+          <img src="https://media.sm.lol/uploads/main/4db854b11495f431ef51339ab6626a38.png" width="80"><br>
+          <b>Sm.lol</b>
+        </a><br>
+        <sub>The All-In-One Linking Service That's So Smlol.</sub>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 <h2>My Projects</h2>
 <p>
-  <a href="https://sm.lol/s">Sm.lol</a> ●
-  <a href="https://robo.st">RoboStux</a> ●
-  <a href="https://stux.group">Stux.Group</a> ● 
-  <a href="https://stuxedo.com">Stuxedo</a> ●
-  <a href="https://stuxapis.net">StuxAPIs</a> ●
-  <a href="https://ream.st">Ream.st</a> ●
-  <a href="https://gaymer.social">Gaymer.Social / Gaymer.Coffee</a> ●
   <a href="https://archives.stuxie.dev">StuxieDev Archives</a> ●
   <a href="https://github.com/StuxieDev/Fix-Blank-Steam-Icons">Fix Blank Steam Icons</a> ●
   <a href="https://stuxie.dev/#portfolio-section"><b>More...</b></a>
