@@ -48,7 +48,7 @@
           <img src="https://global.media.stuxie.dev/icon.png" width="80"><br>
           <b>StuxieDev Website</b>
         </a><br>
-        <sub>Always Developing!</sub>
+        <sub>Websites, Games &amp; Apps, Always Developing!</sub>
       </div>
     </td>
     <td align="center" width="33%" valign="top">
