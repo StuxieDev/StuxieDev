@@ -4,6 +4,12 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.3.0
+
+### Added
+- "My Projects" now includes StuxieDev Archives (archives.stuxie.dev, now live) and Fix Blank Steam Icons, plus a link below the list to [projects.stuxie.dev](https://projects.stuxie.dev), the full index of StuxieDev projects.
+- PowerShell added to the "Languages & Tools" skill icons, which Fix Blank Steam Icons is partly written in.
+
 ## v1.2.0
 
 ### Added

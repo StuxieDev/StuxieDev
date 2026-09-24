@@ -35,7 +35,7 @@
 <h2>Languages &amp; Tools</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,cs,cpp,java,vue,html,bash,git,discord">
+    <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,cs,cpp,java,vue,html,bash,powershell,git,discord">
   </a>
 </p>
 <h2>My Projects</h2>
@@ -46,8 +46,13 @@
   <a href="https://stuxedo.com">Stuxedo</a> ●
   <a href="https://stuxapis.net">StuxAPIs</a> ●
   <a href="https://ream.st">Ream.st</a> ●
-  <a href="https://gaymer.social">Gaymer.Social / Gaymer.Coffee</a> ●  
+  <a href="https://gaymer.social">Gaymer.Social / Gaymer.Coffee</a> ●
+  <a href="https://archives.stuxie.dev">StuxieDev Archives</a> ●
+  <a href="https://github.com/StuxieDev/Fix-Blank-Steam-Icons">Fix Blank Steam Icons</a> ●
   <a href="https://stuxie.dev/#portfolio-section"><b>More...</b></a>
+</p>
+<p>
+  <a href="https://projects.stuxie.dev"><b>Browse every StuxieDev project at projects.stuxie.dev</b></a>
 </p>
 <h2>My Organisations</h2>
 <div align="center">
