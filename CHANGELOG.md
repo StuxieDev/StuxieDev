@@ -4,6 +4,19 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.6.0
+
+### Added
+- Stux.Digital, Stux.Design and Stux.Games in "My Organisations", each with its icon, tagline and stats card.
+- The three Jellyfin plugins (AnimeThemes, Trakt, YouTube Sync), SNAIRK and StuxieDev Status in "My Projects".
+
+### Changed
+- "My Organisations" now leads with Stux.Group across the full width, followed by its brands in the same order as the stux.group website (Stuxedo, Stux.Dev, Stux.Cloud, StuxAPIs, Stux.Music, Stux.Digital, Stux.Design, Stux.Games), then Ream.st, TWRAR, TS4RLS and TIGHC.
+- "My Projects" is grouped into Jellyfin plugins, On the web and Tools, instead of one line.
+
+### Fixed
+- The daily.dev card linked to `daily.dev/StuxieDev`, which is a 404. It now links to `app.daily.dev/stuxiedev`.
+
 ## v1.5.0
 
 ### Added

@@ -74,7 +74,19 @@
 </div>
 <h2>My Projects</h2>
 <p>
-  <a href="https://archives.stuxie.dev">StuxieDev Archives</a> ●
+  <b>Jellyfin plugins:</b>
+  <a href="https://github.com/StuxieDev/AnimeThemesPlugin">AnimeThemes</a> ●
+  <a href="https://github.com/StuxieDev/TraktPlugin">Trakt</a> ●
+  <a href="https://github.com/StuxieDev/YouTubeSyncPlugin">YouTube Sync</a>
+</p>
+<p>
+  <b>On the web:</b>
+  <a href="https://snairk.stuxie.dev">SNAIRK</a> ●
+  <a href="https://status.stuxie.dev">StuxieDev Status</a> ●
+  <a href="https://archives.stuxie.dev">StuxieDev Archives</a>
+</p>
+<p>
+  <b>Tools:</b>
   <a href="https://github.com/StuxieDev/Fix-Blank-Steam-Icons">Fix Blank Steam Icons</a> ●
   <a href="https://stuxie.dev/#portfolio-section"><b>More...</b></a>
 </p>
@@ -85,7 +97,7 @@
 <div align="center">
 <table width="100%" style="width:100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <div align="center">
         <a href="https://github.com/StuxGroup">
           <img src="https://global.media.stux.group/icon.png" width="80"><br>
@@ -95,6 +107,8 @@
         <img width="480" src="https://raw.githubusercontent.com/StuxGroup/.github/metrics/stats.svg">
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/Stuxedo">
@@ -105,26 +119,14 @@
         <img width="480" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
       </div>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <div align="center">
-        <a href="https://github.com/StuxAPIs">
-          <img src="https://global.media.stuxapis.net/icon.png" width="80"><br>
-          <b>StuxAPIs</b>
+        <a href="https://github.com/StuxDev">
+          <img src="https://global.media.stux.dev/icon.png" width="80"><br>
+          <b>Stux.Dev</b>
         </a><br>
-        <sub>Powering the Stux.Group Ecosystem</sub><br><br>
-        <img width="480" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
-      </div>
-    </td>
-    <td align="center">
-      <div align="center">
-        <a href="https://github.com/Ream-st">
-          <img src="https://global.media.ream.st/icon.png" width="80"><br>
-          <b>Ream.st</b>
-        </a><br>
-        <sub>One Viewer, One Provider, Multiple Streams!</sub><br><br>
-        <img width="480" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
+        <sub>We build the tools we wished existed.</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxDev/.github/metrics/stats.svg">
       </div>
     </td>
   </tr>
@@ -141,6 +143,18 @@
     </td>
     <td align="center" width="50%">
       <div align="center">
+        <a href="https://github.com/StuxAPIs">
+          <img src="https://global.media.stuxapis.net/icon.png" width="80"><br>
+          <b>StuxAPIs</b>
+        </a><br>
+        <sub>Powering the Stux.Group Ecosystem</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxAPIs/.github/metrics/stats.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
         <a href="https://github.com/StuxMusic">
           <img src="https://global.media.stux.music/icon.png" width="80"><br>
           <b>Stux.Music</b>
@@ -149,16 +163,48 @@
         <img width="480" src="https://raw.githubusercontent.com/StuxMusic/.github/metrics/stats.svg">
       </div>
     </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/StuxDigital">
+          <img src="https://global.media.stux.digital/icon.png" width="80"><br>
+          <b>Stux.Digital</b>
+        </a><br>
+        <sub>From idea to online.</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxDigital/.github/metrics/stats.svg">
+      </div>
+    </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <div align="center">
-        <a href="https://github.com/StuxDev">
-          <img src="https://global.media.stux.dev/icon.png" width="80"><br>
-          <b>Stux.Dev</b>
+        <a href="https://github.com/StuxDesign">
+          <img src="https://global.media.stux.design/icon.png" width="80"><br>
+          <b>Stux.Design</b>
         </a><br>
-        <sub>We build the tools we wished existed.</sub><br><br>
-        <img width="480" src="https://raw.githubusercontent.com/StuxDev/.github/metrics/stats.svg">
+        <sub>Designed with purpose.</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxDesign/.github/metrics/stats.svg">
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/StuxGames">
+          <img src="https://global.media.stux.games/icon.png" width="80"><br>
+          <b>Stux.Games</b>
+        </a><br>
+        <sub>Made to be played.</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/StuxGames/.github/metrics/stats.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/Ream-st">
+          <img src="https://global.media.ream.st/icon.png" width="80"><br>
+          <b>Ream.st</b>
+        </a><br>
+        <sub>One Viewer, One Provider, Multiple Streams!</sub><br><br>
+        <img width="480" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
       </div>
     </td>
     <td align="center" width="50%">
@@ -204,7 +250,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <br><br>
-      <a href="https://daily.dev/StuxieDev" target="_blank">
+      <a href="https://app.daily.dev/stuxiedev" target="_blank">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard-dark.png" />
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuxieDev/StuxieDev/devcard/devcard.png" />
