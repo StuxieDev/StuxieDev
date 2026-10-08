@@ -62,11 +62,11 @@
     </td>
     <td align="center" width="33%" valign="top">
       <div align="center">
-        <a href="https://sm.lol">
-          <img src="https://media.sm.lol/uploads/main/4db854b11495f431ef51339ab6626a38.png" width="80"><br>
-          <b>Sm.lol</b>
+        <a href="https://snairk.stuxie.dev">
+          <img src="https://raw.githubusercontent.com/StuxieDev/SNAIRK/main/public/brand/icon.svg" width="80"><br>
+          <b>SNAIRK</b>
         </a><br>
-        <sub>The All-In-One Linking Service That's So Smlol.</sub>
+        <sub>Eight AIs. Zero useful answers. Infinite snairk.</sub>
       </div>
     </td>
   </tr>
@@ -81,7 +81,6 @@
 </p>
 <p>
   <b>On the web:</b>
-  <a href="https://snairk.stuxie.dev">SNAIRK</a> ●
   <a href="https://status.stuxie.dev">StuxieDev Status</a> ●
   <a href="https://archives.stuxie.dev">StuxieDev Archives</a>
 </p>
