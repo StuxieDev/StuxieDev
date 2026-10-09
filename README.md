@@ -99,7 +99,7 @@
     <td align="center" colspan="2">
       <div align="center">
         <a href="https://github.com/StuxGroup">
-          <img src="https://global.media.stux.group/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.group/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.group/icon-dark.png"><img src="https://global.media.stux.group/icon-dark.png" width="80"></picture><br>
           <b>Stux.Group</b>
         </a><br>
         <sub>Innovating Today, Building Tomorrow</sub><br><br>
@@ -111,7 +111,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/Stuxedo">
-          <img src="https://global.media.stuxedo.com/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxedo.com/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxedo.com/icon-dark.png"><img src="https://global.media.stuxedo.com/icon-dark.png" width="80"></picture><br>
           <b>Stuxedo</b>
         </a><br>
         <sub>The Smarter, Greener Option</sub><br><br>
@@ -121,7 +121,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxDev">
-          <img src="https://global.media.stux.dev/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.dev/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.dev/icon-dark.png"><img src="https://global.media.stux.dev/icon-dark.png" width="80"></picture><br>
           <b>Stux.Dev</b>
         </a><br>
         <sub>We build the tools we wished existed.</sub><br><br>
@@ -133,7 +133,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxCloud">
-          <img src="https://global.media.stux.cloud/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.cloud/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.cloud/icon-dark.png"><img src="https://global.media.stux.cloud/icon-dark.png" width="80"></picture><br>
           <b>Stux.Cloud</b>
         </a><br>
         <sub>Powering everything, quietly &amp; securely!</sub><br><br>
@@ -143,7 +143,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxAPIs">
-          <img src="https://global.media.stuxapis.net/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxapis.net/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxapis.net/icon-dark.png"><img src="https://global.media.stuxapis.net/icon-dark.png" width="80"></picture><br>
           <b>StuxAPIs</b>
         </a><br>
         <sub>Powering the Stux.Group Ecosystem</sub><br><br>
@@ -155,7 +155,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxMusic">
-          <img src="https://global.media.stux.music/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.music/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.music/icon-dark.png"><img src="https://global.media.stux.music/icon-dark.png" width="80"></picture><br>
           <b>Stux.Music</b>
         </a><br>
         <sub>Independent Music, Done Right!</sub><br><br>
@@ -165,7 +165,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxDigital">
-          <img src="https://global.media.stux.digital/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.digital/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.digital/icon-dark.png"><img src="https://global.media.stux.digital/icon-dark.png" width="80"></picture><br>
           <b>Stux.Digital</b>
         </a><br>
         <sub>From idea to online.</sub><br><br>
@@ -177,7 +177,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxDesign">
-          <img src="https://global.media.stux.design/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.design/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.design/icon-dark.png"><img src="https://global.media.stux.design/icon-dark.png" width="80"></picture><br>
           <b>Stux.Design</b>
         </a><br>
         <sub>Designed with purpose.</sub><br><br>
@@ -187,7 +187,7 @@
     <td align="center" width="50%">
       <div align="center">
         <a href="https://github.com/StuxGames">
-          <img src="https://global.media.stux.games/icon.png" width="80"><br>
+          <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.games/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.games/icon-dark.png"><img src="https://global.media.stux.games/icon-dark.png" width="80"></picture><br>
           <b>Stux.Games</b>
         </a><br>
         <sub>Made to be played.</sub><br><br>
