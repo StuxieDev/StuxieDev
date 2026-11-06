@@ -4,6 +4,19 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.06
+
+### Added
+
+- MyAnimeList in "Jellyfin plugins", StuxieDev Projects and StuxieDev Links in "On the web", and git-scripts and the CU Classification Calculator in "Tools", matching the projects on stuxie.dev
+- YouTube and X badges in "My Socials", matching the socials on stuxie.dev
+- Rust, Godot, CSS, Svelte, Node.js, Docker, nginx and Linux in "Languages & Tools", matching stuxie.dev
+
+### Changed
+
+- "More..." under "My Projects" links to stuxie.dev/portfolio; the old `#portfolio-section` anchor no longer exists
+- CI checks the version with `tests/version.sh`, the same checks as a local release, instead of its own looser pattern
+
 ## v26.10.23
 
 ### Added
