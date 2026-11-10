@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="assets/banner.gif" width="100%" alt="StuxieDev: A Bi Kat Who is Always Developing!">
+</p>
 <div align="center">
-  <img src="https://wsrv.nl/?url=global.media.stuxie.dev/icon.png&w=100&h=100&mask=circle&maxage=7d" width="100">
+  <!--<img src="https://wsrv.nl/?url=global.media.stuxie.dev/icon.png&w=100&h=100&mask=circle&maxage=7d" width="100">-->
   <h1>
-    Hi, I'm Leo (<a href="https://stux.ie">StuxieDev</a>) Ridgwell
+    <img src="https://global.media.stuxie.dev/github/bicat-github.png"> Hi, I'm Leo (<a href="https://stux.ie">StuxieDev</a>) Ridgwell <img src="https://global.media.stuxie.dev/github/bicat-github.png">
   </h1>
-  <h3>
-    <i>A <img src="https://global.media.stuxie.dev/github/bicat-github.png"> Who is Always Developing</i>
-  </h3>
   <p>
     <a href="https://stuxie.dev">
       <img src="https://img.shields.io/badge/website-6B00A2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuMy4wIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIzIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNMzUyIDI1NmMwIDIyLjItMS4yIDQzLjYtMy4zIDY0SDE2My4zYy0yLjItMjAuNC0zLjMtNDEuOC0zLjMtNjRzMS4yLTQzLjYgMy4zLTY0SDM0OC43YzIuMiAyMC40IDMuMyA0MS44IDMuMyA2NHptMjguOC02NEg1MDMuOWM1LjMgMjAuNSA4LjEgNDEuOSA4LjEgNjRzLTIuOCA0My41LTguMSA2NEgzODAuOGMyLjEtMjAuNiAzLjItNDIgMy4yLTY0cy0xLjEtNDMuNC0zLjItNjR6bTExMi42LTMySDM3Ni43Yy0xMC02My45LTI5LjgtMTE3LjQtNTUuMy0xNTEuNmM3OC4zIDIwLjcgMTQyIDc3LjUgMTcxLjkgMTUxLjZ6bS0xNDkuMSAwSDE2Ny43YzYuMS0zNi40IDE1LjUtNjguNiAyNy05NC43YzEwLjUtMjMuNiAyMi4yLTQwLjcgMzMuNS01MS41QzIzOS40IDMuMiAyNDguNyAwIDI1NiAwczE2LjYgMy4yIDI3LjggMTMuOGMxMS4zIDEwLjggMjMgMjcuOSAzMy41IDUxLjVjMTEuNiAyNiAyMSA1OC4yIDI3IDk0Ljd6bS0yMDkgMEgxOC42QzQ4LjYgODUuOSAxMTIuMiAyOS4xIDE5MC42IDguNEMxNjUuMSA0Mi42IDE0NS4zIDk2LjEgMTM1LjMgMTYwek04LjEgMTkySDEzMS4yYy0yLjEgMjAuNi0zLjIgNDItMy4yIDY0czEuMSA0My40IDMuMiA2NEg4LjFDMi44IDI5OS41IDAgMjc4LjEgMCAyNTZzMi44LTQzLjUgOC4xLTY0ek0xOTQuNyA0NDYuNmMtMTEuNi0yNi0yMC45LTU4LjItMjctOTQuNkgzNDQuM2MtNi4xIDM2LjQtMTUuNSA2OC42LTI3IDk0LjZjLTEwLjUgMjMuNiAyMi4yLTQwLjctMzMuNSA1MS41QzI3Mi42IDUwOC44IDI2My4zIDUxMiAyNTYgNTEycy0xNi42LTMuMi0yNy44LTEzLjhjLTExLjMtMTAuOC0yMy0yNy45LTMzLjUtNTEuNXpNMTM1LjMgMzUyYzEwIDYzLjkgMjkuOCAxMTcuNCA1NS4zIDE1MS42QzExMi4yIDQ4Mi45IDQ4LjYgNDI2LjEgMTguNiAzNTJIMTM1LjN6bTM1OC4xIDBjLTMwIDc0LjEtOTMuNiAxMzAuOS0xNzEuOSAxNTEuNmMyNS41LTM0LjIgNDUuMi04Ny43IDU1LjMtMTUxLjZINDkzLjR6IiBmaWxsPSIjZmZmZmZmIi8%2BPC9zdmc%2B&logoColor=white&style=for-the-badge">

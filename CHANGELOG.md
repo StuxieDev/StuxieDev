@@ -4,6 +4,14 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.10
+
+### Added
+
+- **The StuxieDev banner** across the top of the profile: the name, the slogan, the avatar art and the pixel bi kat,
+  with stuxie.dev's glow and bouncing logo, animated (`assets/banner.gif`), the same banner as on Discord, Fluxer and
+  Bluesky
+
 ## v26.11.06
 
 ### Added
