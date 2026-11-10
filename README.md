@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.gif" width="100%" alt="StuxieDev: A Bi Kat Who is Always Developing!">
+</p>
 <div align="center">
   <img src="https://wsrv.nl/?url=global.media.stuxie.dev/icon.png&w=100&h=100&mask=circle&maxage=7d" width="100">
   <h1>
