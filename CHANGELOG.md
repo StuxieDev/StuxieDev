@@ -4,6 +4,20 @@ All notable changes to this profile repo are documented here. The format is
 based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this
 project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.15
+
+### Changed
+
+- **A `test` → `staging` → `main` workflow.** Work and releases happen on `test`; changes go live in two steps,
+  through pull requests: `test` → `staging`, then `staging` → `main`. Nothing is pushed to `staging` or `main`
+  directly, and GitHub protects both branches. CONTRIBUTING.md has a new "Branches and going live" section, and the
+  README's Versioning section says how releases move.
+- **`commit.sh` and `commit.bat` refuse to run on `staging` or `main`**, since releases are made on `test`. After
+  tagging, they print the push command and the two `gh pr create` commands for going live; they used to say to push
+  `main`.
+- **CI also runs on `staging` and `test`**, and on pull requests into `staging`, so those pull requests get the same
+  checks as the ones into `main`.
+
 ## v26.11.10
 
 ### Added

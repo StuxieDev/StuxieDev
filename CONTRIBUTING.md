@@ -32,6 +32,7 @@ By participating in any of my projects, you agree to uphold a respectful and con
 
 ### Submitting Pull Requests
 
+- Open pull requests against `test`, not `main` (see Branches and going live).
 - Keep pull requests focused — one change or fix per PR.
 - Write clear, descriptive commit messages.
 - Update documentation if your change affects behaviour or usage.
@@ -54,6 +55,20 @@ We appreciate every contribution, no matter how small. Thank you for helping mak
 
 *StuxieDev is part of the [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
 
+## Branches and going live
+
+- **`main` is what's live.** Nothing is pushed to it directly: it only changes when a pull request from `staging` is
+  merged, and GitHub protects it so that can't be skipped. Merging into it updates the profile on github.com/StuxieDev.
+  The devcard, metrics and snake workflows commit to their own branches (`devcard`, `metrics`, `snake`), never to
+  `main`.
+- **`staging` is the last check before live.** Nothing is pushed to it directly either: it only changes when a pull
+  request from `test` is merged.
+- **Work happens on `test`**, or on a branch off `test` that's merged back into it. CI runs on every push and on every
+  pull request. Releases are made on `test` too: `commit.sh` / `commit.bat` refuse to run on `staging` or `main`.
+- **Going live:** push `test` with its tag, open a pull request into staging (`gh pr create --base staging --head
+  test`), check staging once it's merged, then open one from staging into main (`gh pr create --base main --head
+  staging`). The commit script prints these commands after tagging.
+
 ## Versioning
 
 This project uses [Date Versioning](https://datevers.ing). To release:
@@ -62,3 +77,5 @@ This project uses [Date Versioning](https://datevers.ing). To release:
 2. Set `VERSION.md` to the same bare version (no `v`): today's **UTC** date as `YY.MM.DD`, or `YY.MM.DD-1`, `-2`… for later releases the same UTC day. Never a future date. Use UTC, not local time: just after midnight in the UK it is still the previous day in UTC.
 3. Run `bash tests/version.sh`.
 4. Run `./commit.sh` (or `commit.bat` on Windows). It checks the version, commits and tags `vYY.MM.DD`, and never pushes.
+5. `git push origin test --tags`, then open a pull request from `test` into `staging`, and once staging is checked one
+   from `staging` into `main` (see Branches and going live).
