@@ -287,7 +287,7 @@
 <p>
   <b>Find me on Discord</b>
   <br>
-  <img src="https://discord.c99.nl/widget/theme-2/454714967954817024.png">
+  <img src="https://statusbanner.com/banner/cyber-neon/454714967954817024.svg?hideTag=1&hideBadges=1&animatedAvatar=1&radius=16">
 </p>
 <h2>Business</h2>
 <p>
