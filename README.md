@@ -34,8 +34,8 @@
 <i>Always Messing with Tech ● Lives on Coffee and Code ● Always Developing ● Creativity and Possibilities with Technology</i>
 <h2>Languages &amp; Tools</h2>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,rust,cs,cpp,java,godot,html,css,vue,svelte,nodejs,bash,powershell,git,docker,nginx,linux,discord">
+  <a href="https://stuxie.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,rust,cs,cpp,java,godot,html,css,vue,svelte,nodejs,bash,powershell,git,docker,nginx,linux,discord,fluxer">
   </a>
 </p>
 <h2>Featured Projects</h2>
